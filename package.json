@@ -1,0 +1,14 @@
+{
+  "name": "ERC20scraper",
+  "version": "1.0.0",
+  "description": "Parse ERC20 tokens from Etherscan.io",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "author": "sanadar",
+  "license": "MIT",
+  "dependencies": {
+    "osmosis": "^1.1.8"
+  }
+}
